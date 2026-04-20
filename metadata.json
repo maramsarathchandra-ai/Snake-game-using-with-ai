@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Beats",
+  "description": "Play a glowing neon Snake game while listening to dummy AI-generated synth wave tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
